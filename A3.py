@@ -1,3 +1,5 @@
+#most frequently occouring char
+
 def most_frequent(string):
     d = dict()
     for key in string:
